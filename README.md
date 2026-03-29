@@ -38,9 +38,19 @@ reprocare/
 
 ---
 
+## 📌 Project Highlights
+- Fully responsive design
+- Structured health information system
+- Clean UI/UX design
+- Real-world problem solving project
+---
+
 ## 📸 Screenshots
 
 <img width="1600" height="1137" alt="image" src="https://github.com/user-attachments/assets/bbf419ce-ab9e-4b67-b9e0-3cc78dbd01be" />
+<img width="1600" height="1168" alt="image" src="https://github.com/user-attachments/assets/b8b566a7-a908-4271-ae82-89d5e078ab76" />
+<img width="1600" height="796" alt="image" src="https://github.com/user-attachments/assets/2bf8f518-6c50-433d-a955-e214db58ecd4" />
+<img width="1600" height="765" alt="image" src="https://github.com/user-attachments/assets/a2316e3b-e488-4b72-a132-681ee4f80ff9" />
 
 
 ---
